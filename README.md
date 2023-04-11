@@ -66,3 +66,10 @@ The output variables are described as commented at the end of the code. The impo
 
 Run the code script Main_FE_V5.py. But note that the features extracted and are available in FV.xlsx file. Target.xlsx file is containing labels as well. 
 
+References
+1. https://www.mathworks.com/matlabcentral/fileexchange/74105-feature-selection-in-classification-using-genetic-algorithm?s_tid=FX_rc2_behav
+for GA_based feature selection
+
+2. https://github.com/pmneila/morphsnakes
+for femur segmentation
+
