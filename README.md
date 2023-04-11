@@ -62,3 +62,7 @@ The variables “npop” and “max_generation” determine the number of popula
 
 The output variables are described as commented at the end of the code. The important output results will be saved at the directory “Address”.
 
+7.	Feature extraction form *.PNG femur images:
+
+Run the code script Main_FE_V5.py. But note that the features extracted and are available in FV.xlsx file. Target.xlsx file is containing labels as well. 
+
